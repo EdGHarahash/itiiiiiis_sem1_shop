@@ -1,0 +1,62 @@
+.content {
+    margin-top: 5%;
+}
+
+.logo {
+    color: #2646ac;
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 25px;
+    line-height: 20px;
+}
+
+a.redd {
+    color: #003076;
+    text-decoration: none;
+}
+
+a.redd:visited {
+    color: #003076;
+}
+
+a.redd:hover {
+    color: #003076;
+    text-decoration: none;
+}
+
+.rocktext {
+    color: #00155d;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+body {
+    background: url("../img/backgroundimg.jpg") no-repeat;
+    background-size: 100%;
+    background-color: rgba(165, 175, 198, 1);
+}
+
+.page-header {
+    color: #546876;
+    font-size: 60px;
+}
+
+.product-block {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #ffed87;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+input.enter{
+    width: 150px;
+}
